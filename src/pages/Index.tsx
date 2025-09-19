@@ -30,10 +30,10 @@ const Index = () => {
               <Sparkles className="w-6 h-6 text-white" />
             </div>
             <div>
-              <h1 className="text-2xl font-bold bg-gradient-primary bg-clip-text text-transparent">
-                Prompt Interface
+            <h1 className="text-2xl font-bold bg-gradient-primary bg-clip-text text-transparent">
+                Intelligent Co-Pilot for the SDR.
               </h1>
-              <p className="text-muted-foreground">Write your prompts and see instant results</p>
+              <p className="text-muted-foreground">Advanced AI-powered sales development tools</p>
             </div>
           </div>
         </div>
@@ -49,10 +49,10 @@ const Index = () => {
               <span className="text-sm font-medium text-primary">Powered by AI</span>
             </div>
             <h2 className="text-4xl font-bold text-foreground mb-4">
-              Transform Your Ideas Into Results
+              Intelligent Co-Pilot for the SDR.
             </h2>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-              Enter your prompt below and watch as it gets processed into meaningful results with our advanced interface.
+              Your AI-powered sales development representative assistant for smarter prospecting and outreach.
             </p>
           </div>
 
