@@ -31,9 +31,9 @@ const Index = () => {
             </div>
             <div>
             <h1 className="text-2xl font-bold bg-gradient-primary bg-clip-text text-transparent">
-                Intelligent Co-Pilot for the SDR.
+                Scoutly
               </h1>
-              <p className="text-muted-foreground">Advanced AI-powered sales development tools</p>
+              <p className="text-muted-foreground">Intelligent co-pilot for Sales</p>
             </div>
           </div>
         </div>
@@ -44,15 +44,11 @@ const Index = () => {
         <div className="max-w-4xl mx-auto space-y-8">
           {/* Hero Section */}
           <div className="text-center space-y-4">
-            <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-primary/10 border border-primary/20">
-              <Zap className="w-4 h-4 text-primary" />
-              <span className="text-sm font-medium text-primary">Powered by AI</span>
-            </div>
             <h2 className="text-4xl font-bold text-foreground mb-4">
-              Intelligent Co-Pilot for the SDR.
+              Scoutly
             </h2>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-              Your AI-powered sales development representative assistant for smarter prospecting and outreach.
+              Intelligent co-pilot for Sales - Your AI-powered assistant for smarter prospecting and outreach.
             </p>
           </div>
 
