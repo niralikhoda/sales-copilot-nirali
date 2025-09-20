@@ -26,7 +26,7 @@ export const PromptInput = ({ value, onChange, onSubmit, isLoading }: PromptInpu
       <div className="space-y-4">
         <div className="flex items-center gap-2 mb-3">
           <Wand2 className="w-5 h-5 text-primary" />
-          <h3 className="text-lg font-semibold text-foreground">What are we selling today ?</h3>
+          <h3 className="text-lg font-semibold text-foreground">What are we selling today</h3>
         </div>
         
         <div className="relative">
