@@ -36,7 +36,8 @@ export const PromptInput = ({ value, onChange, onSubmit, isLoading }: PromptInpu
             onFocus={() => setIsFocused(true)}
             onBlur={() => setIsFocused(false)}
             onKeyDown={handleKeyDown}
-            placeholder="Type your prompt here... Use Cmd/Ctrl + Enter to submit"
+            placeholder="Describe your offering in one line. Mention what you provide, your ticket size, and who your current target is (if any). Example:
+'I am providing Generative AI services to healthcare startups. My ticket size is $1000. Suggest what region, company size, and industries I should target. Also, tell me which decision makers I should reach out to.'"
             className="min-h-[120px] resize-none text-base bg-input/50 border-border/50 focus:border-primary/50 transition-colors duration-300"
             disabled={isLoading}
           />
